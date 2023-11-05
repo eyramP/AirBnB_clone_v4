@@ -69,7 +69,7 @@ No known bugs at this time.
 
 ###### Version 4
 
-- Naheemah Bello - [Github](https://github.com/NaheemahBello) / [Twitter](https://https://twitter.com/BNaheemah)  
+- Eyram Cobblah - [Github](https://github.com/eyramP) / [Twitter](https://twitter.com/ecobblah_se)  
 
 
 
